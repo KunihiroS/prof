@@ -1,7 +1,7 @@
 # KunihiroS profile
 
-## version: 1.0.0
-Initial release of KunihiroS profile.!
+## version: 1.1.0
+Initial release of KunihiroS profile
 
 ## Self introduction
 This is KunihiroS main page explaining who KunihiroS is.<br>
@@ -12,25 +12,25 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 ![koha2](https://res.cloudinary.com/dqmo38a6s/image/upload/v1684222454/koha5_itrmvn.png)<br>
 
 ## Contact info
-Coming soon...
+https://x.com/kunihirosks
 
 ## My works
-Coming soon...
+Loving in AI.
 
 ## My skills
-Coming soon...
+Loving in AI.
 
 ## My hobbies
-Coming soon...
+VSC Theme creation.
 
 ## My favorite games
-Coming soon...
+PZ
 
 ## My favorite anime
-Coming soon...
+Sound! Euphonium
 
 ## My favorite music
-Coming soon...
+Whatever.
 
 ## My favorite food
-Coming soon...
+Whatever.
