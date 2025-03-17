@@ -30,7 +30,4 @@ PZ
 Sound! Euphonium
 
 ## My favorite music
-Whatever.
-
-## My favorite food
-Whatever.
+[Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
