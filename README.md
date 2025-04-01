@@ -22,12 +22,15 @@ Loving in AI.
 
 ## My hobbies
 VSC Theme creation.
+MCP Server creattion.
 
 ## My favorite games
 PZ
 
 ## My favorite anime
 Sound! Euphonium
+TYPE MOON MADE
+PA
 
 ## My favorite music
 [Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
