@@ -34,3 +34,7 @@ PA
 
 ## My favorite music
 [Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
+
+## What I made
+Check repos
+[AI News Caster](https://ai-news-caster.web.app/)
