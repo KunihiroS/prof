@@ -33,7 +33,7 @@ VSC Theme creation.
 MCP Server creation.
 
 ## My favorite games
-[ProjectZomboid] (https://store.steampowered.com/app/108600/Project_Zomboid/) 
+[ProjectZomboid] (https://store.steampowered.com/app/108600/Project_Zomboid/)  
 [StoneShard](https://store.steampowered.com/app/625960/Stoneshard/)
 
 ## My favorite anime
