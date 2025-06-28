@@ -34,8 +34,8 @@ TYPE MOON MADE
 PA
 
 ## My Distro
-Ubuntu Desktop
-Debian
+Ubuntu Desktop  
+Debian  
 NixOS
 
 ## My favorite music
