@@ -1,3 +1,11 @@
+<style>
+body {
+  background: #141944 !important;
+  color: #fff !important;
+  font-family: Ubuntu, Arial, "Helvetica Neue", Helvetica, "Segoe UI", "Liberation Sans", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+</style>
+
 # KunihiroS profile
 
 ## version: 1.1.0
