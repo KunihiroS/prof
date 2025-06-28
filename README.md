@@ -29,7 +29,7 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 Fanatic on AI.
 
 ## My hobbies
-VSC Theme creation.  
+[VSC Theme creation.](https://marketplace.visualstudio.com/publishers/KunihiroS)
 MCP Server creation.
 
 ## My favorite games
