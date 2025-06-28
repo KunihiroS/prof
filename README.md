@@ -25,7 +25,7 @@ VSC Theme creation.
 MCP Server creation.
 
 ## My favorite games
-PZ
+PZ  
 StoneShard
 
 ## My favorite anime
