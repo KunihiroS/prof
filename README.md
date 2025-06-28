@@ -21,16 +21,22 @@ Loving in AI.
 Loving in AI.
 
 ## My hobbies
-VSC Theme creation.
-MCP Server creattion.
+VSC Theme creation.  
+MCP Server creation.
 
 ## My favorite games
 PZ
+StoneShard
 
 ## My favorite anime
 Sound! Euphonium  
 TYPE MOON MADE  
 PA
+
+## My Distro
+Ubuntu Desktop
+Debian
+NixOS
 
 ## My favorite music
 [Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
