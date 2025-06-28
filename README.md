@@ -20,32 +20,32 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 ![koha2](https://res.cloudinary.com/dqmo38a6s/image/upload/v1684222454/koha5_itrmvn.png)<br>
 
 ## Contact info
-https://x.com/kunihirosks
+[X](https://x.com/kunihirosks)
 
 ## My works
-Loving in AI.
+[GASG](https://www.gasg.server-on.net)
 
 ## My skills
-Loving in AI.
+Fanatic on AI.
 
 ## My hobbies
 VSC Theme creation.  
 MCP Server creation.
 
 ## My favorite games
-PZ  
-StoneShard
+[ProjectZomboid] (https://store.steampowered.com/app/108600/Project_Zomboid/) 
+[StoneShard](https://store.steampowered.com/app/625960/Stoneshard/)
 
 ## My favorite anime
-Sound! Euphonium  
-TYPE MOON MADE  
-PA  
-NinKoro
+[Sound! Euphonium](https://tv.anime-eupho.com/)  
+[TYPE MOON MADE](https://typemoon.com/)  
+[PA](https://www.pa-works.jp/works/)  
+[NinKoro](https://ninkoro.jp/)
 
 ## My Distro
 Ubuntu Desktop  
 Debian  
-NixOS
+[NixOS](https://nixos.org/)
 
 ## My favorite music
 [Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
