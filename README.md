@@ -31,7 +31,8 @@ StoneShard
 ## My favorite anime
 Sound! Euphonium  
 TYPE MOON MADE  
-PA
+PA  
+NinKoro
 
 ## My Distro
 Ubuntu Desktop  
