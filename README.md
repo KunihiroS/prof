@@ -48,7 +48,7 @@ Debian
 [NixOS](https://nixos.org/)
 
 ## My favorite music
-[Whatever.](https://www.youtube.com/watch?v=BMc48UNwTu4)
+[Whatever.](https://www.youtube.com/watch?v=baSDFqTuIKM)
 
 ## What I made
 Check repos  
