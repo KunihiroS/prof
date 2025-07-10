@@ -29,8 +29,9 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 Fanatic on AI.
 
 ## My hobbies
-[VSC Theme creation.](https://marketplace.visualstudio.com/publishers/KunihiroS)
-MCP Server creation.
+[VSC Theme creation.](https://marketplace.visualstudio.com/publishers/KunihiroS)  
+MCP Server creation.  
+Check papers.
 
 ## My favorite games
 [ProjectZomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)  
